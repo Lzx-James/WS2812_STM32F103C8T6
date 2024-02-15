@@ -1,0 +1,1570 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+                              CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj (__errno)
+c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+                              c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (exit)
+c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+                              c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o) (_global_impure_ptr)
+c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+                              c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (__libc_init_array)
+c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+                              c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (memset)
+c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+                              c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o) (__call_exitprocs)
+c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+                              c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (atexit)
+c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+                              c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                              c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+                              c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o) (__register_exitproc)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x00000000        0x4 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ .rodata        0x00000000       0x24 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x00000000       0x7c c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/dma.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/dma.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/dma.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .text.initialise_monitor_handles
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .text._getpid  0x00000000        0x4 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .text._kill    0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .text._exit    0x00000000        0xc CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .text._read    0x00000000       0x20 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .text._write   0x00000000       0x1c CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .text._close   0x00000000        0x6 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .text._fstat   0x00000000        0xa CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .text._isatty  0x00000000        0x4 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .text._lseek   0x00000000        0x4 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .text._open    0x00000000        0xa CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .text._wait    0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .text._unlink  0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .text._times   0x00000000        0x6 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .text._stat    0x00000000        0xa CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .text._link    0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .text._fork    0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .text._execve  0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .bss.__env     0x00000000        0x4 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .data.environ  0x00000000        0x4 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .debug_info    0x00000000      0x7af CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .debug_abbrev  0x00000000      0x1a3 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .debug_loc     0x00000000      0x3c5 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .debug_aranges
+                0x00000000       0xa8 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .debug_ranges  0x00000000       0x98 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x00000000      0x3ff CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .debug_str     0x00000000      0x432 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .debug_frame   0x00000000      0x190 CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/sysmem.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/sysmem.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/sysmem.c.obj
+ .text._sbrk    0x00000000       0x48 CMakeFiles/ws2812.elf.dir/Core/Src/sysmem.c.obj
+ .bss.__sbrk_heap_end
+                0x00000000        0x4 CMakeFiles/ws2812.elf.dir/Core/Src/sysmem.c.obj
+ .debug_info    0x00000000      0x174 CMakeFiles/ws2812.elf.dir/Core/Src/sysmem.c.obj
+ .debug_abbrev  0x00000000       0xe7 CMakeFiles/ws2812.elf.dir/Core/Src/sysmem.c.obj
+ .debug_loc     0x00000000       0x64 CMakeFiles/ws2812.elf.dir/Core/Src/sysmem.c.obj
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/ws2812.elf.dir/Core/Src/sysmem.c.obj
+ .debug_ranges  0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Core/Src/sysmem.c.obj
+ .debug_line    0x00000000      0x1aa CMakeFiles/ws2812.elf.dir/Core/Src/sysmem.c.obj
+ .debug_str     0x00000000      0x25e CMakeFiles/ws2812.elf.dir/Core/Src/sysmem.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/ws2812.elf.dir/Core/Src/sysmem.c.obj
+ .debug_frame   0x00000000       0x28 CMakeFiles/ws2812.elf.dir/Core/Src/sysmem.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/ws2812.elf.dir/Core/Src/sysmem.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000       0x94 CMakeFiles/ws2812.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .rodata.APBPrescTable
+                0x00000000        0x8 CMakeFiles/ws2812.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/tim.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/tim.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Src/tim.c.obj
+ .text.HAL_TIM_Base_MspDeInit
+                0x00000000       0x24 CMakeFiles/ws2812.elf.dir/Core/Src/tim.c.obj
+ .text          0x00000000       0x14 CMakeFiles/ws2812.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_MspInit
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_MspDeInit
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DeInit
+                0x00000000       0x20 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetTickPrio
+                0x00000000        0xc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_SetTickFreq
+                0x00000000       0x2c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetTickFreq
+                0x00000000        0xc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_SuspendTick
+                0x00000000        0xe CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_ResumeTick
+                0x00000000        0xe CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetHalVersion
+                0x00000000        0x8 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetREVID
+                0x00000000        0xc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetDEVID
+                0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw0
+                0x00000000        0xc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw1
+                0x00000000        0xc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw2
+                0x00000000        0xc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x24 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SystemReset
+                0x00000000       0x24 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x60 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x24 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x24 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x20 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0x8 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_DeInit
+                0x00000000       0x68 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Start
+                0x00000000       0x52 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort
+                0x00000000       0x46 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort_IT
+                0x00000000       0x98 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_PollForTransfer
+                0x00000000      0x22c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_RegisterCallback
+                0x00000000       0x4c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_UnRegisterCallback
+                0x00000000       0x5c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_GetState
+                0x00000000        0x6 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_GetError
+                0x00000000        0x4 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_SetConfigLine
+                0x00000000       0xd8 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetConfigLine
+                0x00000000       0xac CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearConfigLine
+                0x00000000       0x88 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_RegisterCallback
+                0x00000000        0xe CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetHandle
+                0x00000000        0xc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_IRQHandler
+                0x00000000       0x24 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetPending
+                0x00000000       0x1c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearPending
+                0x00000000       0x14 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GenerateSWI
+                0x00000000       0x14 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_info    0x00000000      0x5b4 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_abbrev  0x00000000      0x1e0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_loc     0x00000000      0x470 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_aranges
+                0x00000000       0x60 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_ranges  0x00000000       0x50 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_line    0x00000000      0x624 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_str     0x00000000      0x41c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_frame   0x00000000       0xe8 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_Program_HalfWord
+                0x00000000       0x1c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_SetErrorCode
+                0x00000000       0x70 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program_IT
+                0x00000000       0x6c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OperationErrorCallback
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_IRQHandler
+                0x00000000      0x154 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Unlock
+                0x00000000       0x34 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Lock
+                0x00000000       0x14 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Unlock
+                0x00000000       0x28 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Lock
+                0x00000000       0x14 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Launch
+                0x00000000        0x8 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_GetError
+                0x00000000        0xc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_WaitForLastOperation
+                0x00000000       0x68 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program
+                0x00000000       0xa0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .bss.pFlash    0x00000000       0x20 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_info    0x00000000      0x698 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_abbrev  0x00000000      0x22d CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_loc     0x00000000      0x3a2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_aranges
+                0x00000000       0x88 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_ranges  0x00000000       0x78 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_line    0x00000000      0x7b7 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_str     0x00000000      0x575 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_frame   0x00000000      0x134 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_MassErase
+                0x00000000       0x24 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetWRP
+                0x00000000        0xc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetRDP
+                0x00000000       0x18 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetUser
+                0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_RDP_LevelConfig
+                0x00000000       0x68 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_UserConfig
+                0x00000000       0x48 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_ProgramData
+                0x00000000       0x40 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBErase
+                0x00000000       0x50 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_EnableWRP
+                0x00000000       0xc0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_DisableWRP
+                0x00000000       0xc8 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBProgram
+                0x00000000       0x9c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetConfig
+                0x00000000       0x1c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetUserData
+                0x00000000       0x24 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_PageErase
+                0x00000000       0x24 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase
+                0x00000000       0xa4 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase_IT
+                0x00000000       0x60 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_info    0x00000000      0xafa CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_abbrev  0x00000000      0x234 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_loc     0x00000000      0x87f CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_aranges
+                0x00000000       0x98 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_ranges  0x00000000       0x88 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_line    0x00000000      0x949 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_str     0x00000000      0x68b CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_frame   0x00000000      0x194 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_DeInit
+                0x00000000      0x100 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_ReadPin
+                0x00000000        0xe CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_WritePin
+                0x00000000        0xc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_TogglePin
+                0x00000000       0x12 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x2e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x1c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_ConfigEventout
+                0x00000000       0x14 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_EnableEventout
+                0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_DisableEventout
+                0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_info    0x00000000      0x15c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_abbrev  0x00000000       0xda CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_loc     0x00000000       0x25 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_aranges
+                0x00000000       0x30 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_ranges  0x00000000       0x20 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_line    0x00000000      0x1c5 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_str     0x00000000      0x29d CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_frame   0x00000000       0x40 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.PWR_OverloadWfe
+                0x00000000        0x6 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DeInit
+                0x00000000       0x18 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableBkUpAccess
+                0x00000000        0xc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableBkUpAccess
+                0x00000000        0xc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_ConfigPVD
+                0x00000000       0x84 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnablePVD
+                0x00000000        0xc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisablePVD
+                0x00000000        0xc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableWakeUpPin
+                0x00000000       0x18 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableWakeUpPin
+                0x00000000       0x18 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSLEEPMode
+                0x00000000       0x20 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTOPMode
+                0x00000000       0x48 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x00000000       0x20 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSleepOnExit
+                0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSleepOnExit
+                0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSEVOnPend
+                0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSEVOnPend
+                0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVDCallback
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVD_IRQHandler
+                0x00000000       0x20 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_info    0x00000000      0x6a7 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_abbrev  0x00000000      0x1de CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_loc     0x00000000      0x142 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_aranges
+                0x00000000       0xa8 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_ranges  0x00000000       0x98 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_line    0x00000000      0x4b6 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_str     0x00000000      0x4e1 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_frame   0x00000000      0x140 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_DeInit
+                0x00000000       0xf4 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0x50 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableCSS
+                0x00000000        0xc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_DisableCSS
+                0x00000000        0xc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetHCLKFreq
+                0x00000000        0xc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK1Freq
+                0x00000000       0x20 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK2Freq
+                0x00000000       0x20 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetOscConfig
+                0x00000000       0xb4 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x3c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x20 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x00000000      0x118 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x00000000       0x2c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x00000000       0xd8 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .rodata.aPLLMULFactorTable.1
+                0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .rodata.aPredivFactorTable.0
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_info    0x00000000      0x449 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x00000000      0x1d2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_loc     0x00000000      0x43d CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_aranges
+                0x00000000       0x30 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_ranges  0x00000000       0x38 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_line    0x00000000      0x4c2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_str     0x00000000      0x419 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .comment       0x00000000       0x4e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_frame   0x00000000       0x5c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_TI2_SetConfig
+                0x00000000       0x36 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_TI3_SetConfig
+                0x00000000       0x36 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_TI4_SetConfig
+                0x00000000       0x36 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_MspInit
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_MspDeInit
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_DeInit
+                0x00000000       0x5e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_Start
+                0x00000000       0x5c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_Stop
+                0x00000000       0x28 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_Start_IT
+                0x00000000       0x68 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_Stop_IT
+                0x00000000       0x32 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_Start_DMA
+                0x00000000       0xb0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_Stop_DMA
+                0x00000000       0x3c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_MspInit
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_MspDeInit
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_DeInit
+                0x00000000       0x5e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_MspDeInit
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_DeInit
+                0x00000000       0x5e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_MspInit
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_MspDeInit
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_DeInit
+                0x00000000       0x5e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_MspInit
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_MspDeInit
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_DeInit
+                0x00000000       0x4e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_MspInit
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_MspDeInit
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_DeInit
+                0x00000000       0x4e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_MultiWriteStart
+                0x00000000      0x1a8 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_WriteStart
+                0x00000000       0x16 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_WriteStop
+                0x00000000       0x84 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_MultiReadStart
+                0x00000000      0x1a8 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_ReadStart
+                0x00000000       0x16 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_ReadStop
+                0x00000000       0x84 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_GenerateEvent
+                0x00000000       0x2a CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_ConfigTI1Input
+                0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_ReadCapturedValue
+                0x00000000       0x32 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PeriodElapsedCallback
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMAPeriodElapsedCplt
+                0x00000000       0x16 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PeriodElapsedHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMAPeriodElapsedHalfCplt
+                0x00000000        0xa CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_DelayElapsedCallback
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_CaptureCallback
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMACaptureCplt
+                0x00000000       0x80 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_CaptureHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMACaptureHalfCplt
+                0x00000000       0x3e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_PulseFinishedCallback
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_TriggerCallback
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IRQHandler
+                0x00000000      0x17a CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMATriggerCplt
+                0x00000000       0x16 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_TriggerHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMATriggerHalfCplt
+                0x00000000        0xa CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_GetState
+                0x00000000        0x6 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_GetState
+                0x00000000        0x6 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_GetState
+                0x00000000        0x6 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_GetState
+                0x00000000        0x6 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_GetState
+                0x00000000        0x6 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_GetState
+                0x00000000        0x6 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_GetActiveChannel
+                0x00000000        0x4 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_GetChannelState
+                0x00000000       0x2a CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurstState
+                0x00000000        0x6 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Init
+                0x00000000       0x58 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Init
+                0x00000000       0x58 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_Init
+                0x00000000       0x5c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Init
+                0x00000000       0xb8 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_ConfigChannel
+                0x00000000       0x5e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_TI1_SetConfig
+                0x00000000       0x58 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_ConfigChannel
+                0x00000000       0xc4 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_ConfigChannel
+                0x00000000       0xfa CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_ConfigOCrefClear
+                0x00000000       0xfa CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_SlaveTimer_SetConfig
+                0x00000000       0xb8 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_SlaveConfigSynchro
+                0x00000000       0x52 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_SlaveConfigSynchro_IT
+                0x00000000       0x52 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Start
+                0x00000000       0xdc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Stop
+                0x00000000       0x84 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Start_IT
+                0x00000000      0x124 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Stop_IT
+                0x00000000       0xd4 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Start_DMA
+                0x00000000      0x24c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Stop_DMA
+                0x00000000       0xec CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Start
+                0x00000000       0xdc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Stop
+                0x00000000       0x84 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Start_IT
+                0x00000000      0x124 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Stop_IT
+                0x00000000       0xd4 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Stop_DMA
+                0x00000000       0xec CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Start
+                0x00000000      0x10c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Stop
+                0x00000000       0x80 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Start_IT
+                0x00000000      0x154 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Stop_IT
+                0x00000000       0xd0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Start_DMA
+                0x00000000      0x240 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Stop_DMA
+                0x00000000       0xe6 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_Start
+                0x00000000       0x78 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_Stop
+                0x00000000       0x78 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_Start_IT
+                0x00000000       0x90 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_Stop_IT
+                0x00000000       0x8c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Start
+                0x00000000       0xcc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Stop
+                0x00000000       0xc4 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Start_IT
+                0x00000000       0xf6 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Stop_IT
+                0x00000000       0xee CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Start_DMA
+                0x00000000      0x264 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Stop_DMA
+                0x00000000      0x106 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.TIM_CCxNChannelCmd
+                0x00000000       0x1e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.TIM_DMAErrorCCxN
+                0x00000000       0x44 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.TIM_DMADelayPulseNCplt
+                0x00000000       0x70 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_MspInit
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Init
+                0x00000000       0xd4 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_MspDeInit
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_DeInit
+                0x00000000       0x4e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Start
+                0x00000000       0x9c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Stop
+                0x00000000       0x42 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Start_IT
+                0x00000000       0xa8 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Stop_IT
+                0x00000000       0x4c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Start_DMA
+                0x00000000       0xd0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Stop_DMA
+                0x00000000       0x4a CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Start
+                0x00000000       0xd4 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Stop
+                0x00000000       0x76 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Start_IT
+                0x00000000      0x10c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Stop_IT
+                0x00000000       0xc2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Start_DMA
+                0x00000000      0x1fc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Stop_DMA
+                0x00000000       0xc0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Start
+                0x00000000       0xd4 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Stop
+                0x00000000       0x76 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Start_IT
+                0x00000000      0x10c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Stop_IT
+                0x00000000       0xc2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Start_DMA
+                0x00000000      0x1fc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Stop_DMA
+                0x00000000       0xc0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OnePulseN_Start
+                0x00000000       0x7a CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OnePulseN_Stop
+                0x00000000       0x72 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OnePulseN_Start_IT
+                0x00000000       0x8e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OnePulseN_Stop_IT
+                0x00000000       0x86 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_ConfigCommutEvent
+                0x00000000       0x70 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_ConfigCommutEvent_IT
+                0x00000000       0x70 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_ConfigCommutEvent_DMA
+                0x00000000       0x90 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_ConfigBreakDeadTime
+                0x00000000       0x52 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_RemapConfig
+                0x00000000        0x4 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_CommutCallback
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.TIMEx_DMACommutationCplt
+                0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_CommutHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.TIMEx_DMACommutationHalfCplt
+                0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_BreakCallback
+                0x00000000        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_GetState
+                0x00000000        0x6 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_GetChannelNState
+                0x00000000       0x2a CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Hardware/WS2812.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Hardware/WS2812.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ws2812.elf.dir/Hardware/WS2812.c.obj
+ .data.LED_Zero_Byte
+                0x00000000       0x30 CMakeFiles/ws2812.elf.dir/Hardware/WS2812.c.obj
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xc4 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___sinit_recursive_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .rodata        0x00000000       0x24 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00005000         xrw
+FLASH            0x08000000         0x00010000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+LOAD c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+LOAD c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD CMakeFiles/ws2812.elf.dir/Core/Src/dma.c.obj
+LOAD CMakeFiles/ws2812.elf.dir/Core/Src/gpio.c.obj
+LOAD CMakeFiles/ws2812.elf.dir/Core/Src/main.c.obj
+LOAD CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+LOAD CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+LOAD CMakeFiles/ws2812.elf.dir/Core/Src/syscalls.c.obj
+LOAD CMakeFiles/ws2812.elf.dir/Core/Src/sysmem.c.obj
+LOAD CMakeFiles/ws2812.elf.dir/Core/Src/system_stm32f1xx.c.obj
+LOAD CMakeFiles/ws2812.elf.dir/Core/Src/tim.c.obj
+LOAD CMakeFiles/ws2812.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+LOAD CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+LOAD CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+LOAD CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+LOAD CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+LOAD CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+LOAD CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+LOAD CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+LOAD CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+LOAD CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+LOAD CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+LOAD CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+LOAD CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+LOAD CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+LOAD CMakeFiles/ws2812.elf.dir/Hardware/WS2812.c.obj
+START GROUP
+LOAD c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a
+LOAD c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a
+LOAD c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+END GROUP
+LOAD c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtend.o
+LOAD c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+                0x20005000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x10c
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c CMakeFiles/ws2812.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+                0x08000000                g_pfnVectors
+                0x0800010c                . = ALIGN (0x4)
+
+.text           0x0800010c     0x1ac0
+                0x0800010c                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0800010c       0x40 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.text*)
+ .text.MX_DMA_Init
+                0x0800014c       0x34 CMakeFiles/ws2812.elf.dir/Core/Src/dma.c.obj
+                0x0800014c                MX_DMA_Init
+ .text.MX_GPIO_Init
+                0x08000180       0x30 CMakeFiles/ws2812.elf.dir/Core/Src/gpio.c.obj
+                0x08000180                MX_GPIO_Init
+ .text.Error_Handler
+                0x080001b0        0x4 CMakeFiles/ws2812.elf.dir/Core/Src/main.c.obj
+                0x080001b0                Error_Handler
+ .text.SystemClock_Config
+                0x080001b4       0x64 CMakeFiles/ws2812.elf.dir/Core/Src/main.c.obj
+                0x080001b4                SystemClock_Config
+ .text.main     0x08000218       0x40 CMakeFiles/ws2812.elf.dir/Core/Src/main.c.obj
+                0x08000218                main
+ .text.HAL_MspInit
+                0x08000258       0x44 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x08000258                HAL_MspInit
+ .text.NMI_Handler
+                0x0800029c        0x2 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0800029c                NMI_Handler
+ .text.HardFault_Handler
+                0x0800029e        0x2 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0800029e                HardFault_Handler
+ .text.MemManage_Handler
+                0x080002a0        0x2 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080002a0                MemManage_Handler
+ .text.BusFault_Handler
+                0x080002a2        0x2 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080002a2                BusFault_Handler
+ .text.UsageFault_Handler
+                0x080002a4        0x2 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080002a4                UsageFault_Handler
+ .text.SVC_Handler
+                0x080002a6        0x2 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080002a6                SVC_Handler
+ .text.DebugMon_Handler
+                0x080002a8        0x2 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080002a8                DebugMon_Handler
+ .text.PendSV_Handler
+                0x080002aa        0x2 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080002aa                PendSV_Handler
+ .text.SysTick_Handler
+                0x080002ac        0x8 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080002ac                SysTick_Handler
+ .text.DMA1_Channel5_IRQHandler
+                0x080002b4       0x10 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080002b4                DMA1_Channel5_IRQHandler
+ .text.SystemInit
+                0x080002c4        0x2 CMakeFiles/ws2812.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x080002c4                SystemInit
+ *fill*         0x080002c6        0x2 
+ .text.HAL_TIM_Base_MspInit
+                0x080002c8       0x64 CMakeFiles/ws2812.elf.dir/Core/Src/tim.c.obj
+                0x080002c8                HAL_TIM_Base_MspInit
+ .text.HAL_TIM_MspPostInit
+                0x0800032c       0x4c CMakeFiles/ws2812.elf.dir/Core/Src/tim.c.obj
+                0x0800032c                HAL_TIM_MspPostInit
+ .text.MX_TIM2_Init
+                0x08000378       0xa8 CMakeFiles/ws2812.elf.dir/Core/Src/tim.c.obj
+                0x08000378                MX_TIM2_Init
+ .text.Reset_Handler
+                0x08000420       0x48 CMakeFiles/ws2812.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+                0x08000420                Reset_Handler
+ .text.Default_Handler
+                0x08000468        0x2 CMakeFiles/ws2812.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+                0x08000468                RTC_Alarm_IRQHandler
+                0x08000468                EXTI2_IRQHandler
+                0x08000468                TIM1_CC_IRQHandler
+                0x08000468                PVD_IRQHandler
+                0x08000468                EXTI3_IRQHandler
+                0x08000468                EXTI0_IRQHandler
+                0x08000468                I2C2_EV_IRQHandler
+                0x08000468                ADC1_2_IRQHandler
+                0x08000468                SPI1_IRQHandler
+                0x08000468                TAMPER_IRQHandler
+                0x08000468                DMA1_Channel4_IRQHandler
+                0x08000468                USART3_IRQHandler
+                0x08000468                RTC_IRQHandler
+                0x08000468                DMA1_Channel7_IRQHandler
+                0x08000468                CAN1_RX1_IRQHandler
+                0x08000468                TIM4_IRQHandler
+                0x08000468                I2C1_EV_IRQHandler
+                0x08000468                DMA1_Channel6_IRQHandler
+                0x08000468                TIM3_IRQHandler
+                0x08000468                RCC_IRQHandler
+                0x08000468                TIM1_TRG_COM_IRQHandler
+                0x08000468                DMA1_Channel1_IRQHandler
+                0x08000468                Default_Handler
+                0x08000468                EXTI15_10_IRQHandler
+                0x08000468                EXTI9_5_IRQHandler
+                0x08000468                SPI2_IRQHandler
+                0x08000468                EXTI4_IRQHandler
+                0x08000468                USB_LP_CAN1_RX0_IRQHandler
+                0x08000468                USB_HP_CAN1_TX_IRQHandler
+                0x08000468                DMA1_Channel3_IRQHandler
+                0x08000468                TIM1_UP_IRQHandler
+                0x08000468                WWDG_IRQHandler
+                0x08000468                TIM2_IRQHandler
+                0x08000468                TIM1_BRK_IRQHandler
+                0x08000468                EXTI1_IRQHandler
+                0x08000468                USART2_IRQHandler
+                0x08000468                I2C2_ER_IRQHandler
+                0x08000468                DMA1_Channel2_IRQHandler
+                0x08000468                CAN1_SCE_IRQHandler
+                0x08000468                FLASH_IRQHandler
+                0x08000468                USART1_IRQHandler
+                0x08000468                I2C1_ER_IRQHandler
+                0x08000468                USBWakeUp_IRQHandler
+ *fill*         0x0800046a        0x2 
+ .text.HAL_InitTick
+                0x0800046c       0x4c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0800046c                HAL_InitTick
+ .text.HAL_Init
+                0x080004b8       0x24 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080004b8                HAL_Init
+ .text.HAL_IncTick
+                0x080004dc       0x18 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080004dc                HAL_IncTick
+ .text.HAL_GetTick
+                0x080004f4        0xc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080004f4                HAL_GetTick
+ .text.HAL_Delay
+                0x08000500       0x28 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000500                HAL_Delay
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x08000528       0x24 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08000528                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x0800054c       0x70 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0800054c                HAL_NVIC_SetPriority
+ .text.HAL_NVIC_EnableIRQ
+                0x080005bc       0x1c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x080005bc                HAL_NVIC_EnableIRQ
+ .text.HAL_SYSTICK_Config
+                0x080005d8       0x28 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x080005d8                HAL_SYSTICK_Config
+ .text.DMA_SetConfig
+                0x08000600       0x2c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Init
+                0x0800062c       0x6c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x0800062c                HAL_DMA_Init
+ .text.HAL_DMA_Start_IT
+                0x08000698       0x76 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x08000698                HAL_DMA_Start_IT
+ *fill*         0x0800070e        0x2 
+ .text.HAL_DMA_IRQHandler
+                0x08000710      0x144 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x08000710                HAL_DMA_IRQHandler
+ .text.HAL_GPIO_Init
+                0x08000854      0x224 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x08000854                HAL_GPIO_Init
+ .text.RCC_Delay
+                0x08000a78       0x2c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_OscConfig
+                0x08000aa4      0x410 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08000aa4                HAL_RCC_OscConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x08000eb4       0x54 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08000eb4                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_ClockConfig
+                0x08000f08      0x16c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08000f08                HAL_RCC_ClockConfig
+ .text.TIM_OC1_SetConfig
+                0x08001074       0x5c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_OC3_SetConfig
+                0x080010d0       0x64 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_OC4_SetConfig
+                0x08001134       0x48 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_TI1_ConfigInputStage
+                0x0800117c       0x24 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_TI2_ConfigInputStage
+                0x080011a0       0x26 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_ITRx_SetConfig
+                0x080011c6       0x10 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_MspInit
+                0x080011d6        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x080011d6                HAL_TIM_PWM_MspInit
+ .text.TIM_DMADelayPulseCplt
+                0x080011d8       0x70 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_PulseFinishedHalfCpltCallback
+                0x08001248        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08001248                HAL_TIM_PWM_PulseFinishedHalfCpltCallback
+ .text.TIM_DMADelayPulseHalfCplt
+                0x0800124a       0x3e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0800124a                TIM_DMADelayPulseHalfCplt
+ .text.HAL_TIM_ErrorCallback
+                0x08001288        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08001288                HAL_TIM_ErrorCallback
+ .text.TIM_DMAError
+                0x0800128a       0x5c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0800128a                TIM_DMAError
+ *fill*         0x080012e6        0x2 
+ .text.TIM_Base_SetConfig
+                0x080012e8       0x74 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x080012e8                TIM_Base_SetConfig
+ .text.HAL_TIM_Base_Init
+                0x0800135c       0x58 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0800135c                HAL_TIM_Base_Init
+ .text.HAL_TIM_PWM_Init
+                0x080013b4       0x58 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x080013b4                HAL_TIM_PWM_Init
+ .text.TIM_OC2_SetConfig
+                0x0800140c       0x64 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0800140c                TIM_OC2_SetConfig
+ .text.HAL_TIM_PWM_ConfigChannel
+                0x08001470       0xdc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08001470                HAL_TIM_PWM_ConfigChannel
+ .text.TIM_ETR_SetConfig
+                0x0800154c       0x18 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0800154c                TIM_ETR_SetConfig
+ .text.HAL_TIM_ConfigClockSource
+                0x08001564       0xfe CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08001564                HAL_TIM_ConfigClockSource
+ .text.TIM_CCxChannelCmd
+                0x08001662       0x1e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08001662                TIM_CCxChannelCmd
+ .text.HAL_TIM_PWM_Start_DMA
+                0x08001680      0x24c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08001680                HAL_TIM_PWM_Start_DMA
+ .text.HAL_TIMEx_MasterConfigSynchronization
+                0x080018cc       0x6c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+                0x080018cc                HAL_TIMEx_MasterConfigSynchronization
+ .text.WS2812_Code
+                0x08001938       0xae CMakeFiles/ws2812.elf.dir/Hardware/WS2812.c.obj
+                0x08001938                WS2812_Code
+ .text.HAL_TIM_PWM_PulseFinishedCallback
+                0x080019e6        0x2 CMakeFiles/ws2812.elf.dir/Hardware/WS2812.c.obj
+                0x080019e6                HAL_TIM_PWM_PulseFinishedCallback
+ .text.__libc_init_array
+                0x080019e8       0x48 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+                0x080019e8                __libc_init_array
+ .text.memset   0x08001a30       0xa4 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+                0x08001a30                memset
+ .text.startup.register_fini
+                0x08001ad4       0x14 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08001ae8        0xc c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+                0x08001ae8                atexit
+ .text.__libc_fini_array
+                0x08001af4       0x2c c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+                0x08001af4                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x08001b20        0x4 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x08001b20                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x08001b24        0x4 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x08001b24                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x08001b28       0x8c c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+                0x08001b28                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x08001bb4        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08001bb4        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08001bb4        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x08001bb4        0x4 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+                0x08001bb4                _init
+ .init          0x08001bb8        0x8 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x08001bc0        0x4 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+                0x08001bc0                _fini
+ .fini          0x08001bc4        0x8 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+                0x08001bcc                . = ALIGN (0x4)
+                0x08001bcc                _etext = .
+
+.vfp11_veneer   0x08001bcc        0x0
+ .vfp11_veneer  0x08001bcc        0x0 linker stubs
+
+.v4_bx          0x08001bcc        0x0
+ .v4_bx         0x08001bcc        0x0 linker stubs
+
+.iplt           0x08001bcc        0x0
+ .iplt          0x08001bcc        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.rodata         0x08001bcc       0x28
+                0x08001bcc                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.AHBPrescTable
+                0x08001bcc       0x10 CMakeFiles/ws2812.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08001bcc                AHBPrescTable
+ .rodata.aPLLMULFactorTable.1
+                0x08001bdc       0x10 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .rodata.aPredivFactorTable.0
+                0x08001bec        0x2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ *fill*         0x08001bee        0x2 
+ .rodata._global_impure_ptr
+                0x08001bf0        0x4 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+                0x08001bf0                _global_impure_ptr
+                0x08001bf4                . = ALIGN (0x4)
+
+.rel.dyn        0x08001bf4        0x0
+ .rel.iplt      0x08001bf4        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.ARM.extab      0x08001bf4        0x0
+                0x08001bf4                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x08001bf4                . = ALIGN (0x4)
+
+.ARM            0x08001bf4        0x0
+                0x08001bf4                . = ALIGN (0x4)
+                0x08001bf4                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08001bf4                __exidx_end = .
+                0x08001bf4                . = ALIGN (0x4)
+
+.preinit_array  0x08001bf4        0x0
+                0x08001bf4                . = ALIGN (0x4)
+                0x08001bf4                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08001bf4                PROVIDE (__preinit_array_end = .)
+                0x08001bf4                . = ALIGN (0x4)
+
+.init_array     0x08001bf4        0x8
+                0x08001bf4                . = ALIGN (0x4)
+                0x08001bf4                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x08001bf4        0x4 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x08001bf8        0x4 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x08001bfc                PROVIDE (__init_array_end = .)
+                0x08001bfc                . = ALIGN (0x4)
+
+.fini_array     0x08001bfc        0x4
+                0x08001bfc                . = ALIGN (0x4)
+                0x08001bfc                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08001bfc        0x4 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x08001c00                PROVIDE (__fini_array_end = .)
+                0x08001c00                . = ALIGN (0x4)
+                0x08001c00                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x43c load address 0x08001c00
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x20000000        0x4 CMakeFiles/ws2812.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x20000000                SystemCoreClock
+ .data.uwTickFreq
+                0x20000004        0x1 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x20000004                uwTickFreq
+ *fill*         0x20000005        0x3 
+ .data.uwTickPrio
+                0x20000008        0x4 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x20000008                uwTickPrio
+ *fill*         0x2000000c        0x4 
+ .data.impure_data
+                0x20000010      0x428 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20000438        0x4 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x20000438                __atexit_recursive_mutex
+ *(.RamFunc)
+ *(.RamFunc*)
+                0x2000043c                . = ALIGN (0x4)
+                0x2000043c                _edata = .
+
+.igot.plt       0x2000043c        0x0 load address 0x0800203c
+ .igot.plt      0x2000043c        0x0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x2000043c                . = ALIGN (0x4)
+
+.bss            0x2000043c       0xe0 load address 0x0800203c
+                0x2000043c                _sbss = .
+                0x2000043c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x2000043c       0x1c c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.bss*)
+ .bss.hdma_tim2_ch1
+                0x20000458       0x44 CMakeFiles/ws2812.elf.dir/Core/Src/tim.c.obj
+                0x20000458                hdma_tim2_ch1
+ .bss.htim2     0x2000049c       0x48 CMakeFiles/ws2812.elf.dir/Core/Src/tim.c.obj
+                0x2000049c                htim2
+ .bss.uwTick    0x200004e4        0x4 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x200004e4                uwTick
+ .bss.LED_Color_Byte
+                0x200004e8       0x30 CMakeFiles/ws2812.elf.dir/Hardware/WS2812.c.obj
+                0x200004e8                LED_Color_Byte
+ .bss.__lock___atexit_recursive_mutex
+                0x20000518        0x1 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x20000518                __lock___atexit_recursive_mutex
+ *(COMMON)
+                0x2000051c                . = ALIGN (0x4)
+ *fill*         0x20000519        0x3 
+                0x2000051c                _ebss = .
+                0x2000051c                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x2000051c      0x604 load address 0x0800203c
+                0x20000520                . = ALIGN (0x8)
+ *fill*         0x2000051c        0x4 
+                [!provide]                PROVIDE (end = .)
+                0x20000520                PROVIDE (_end = .)
+                0x20000720                . = (. + _Min_Heap_Size)
+ *fill*         0x20000520      0x200 
+                0x20000b20                . = (. + _Min_Stack_Size)
+ *fill*         0x20000720      0x400 
+                0x20000b20                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1d c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x2d CMakeFiles/ws2812.elf.dir/Core/Src/dma.c.obj
+ .ARM.attributes
+                0x00000077       0x2d CMakeFiles/ws2812.elf.dir/Core/Src/gpio.c.obj
+ .ARM.attributes
+                0x000000a4       0x2d CMakeFiles/ws2812.elf.dir/Core/Src/main.c.obj
+ .ARM.attributes
+                0x000000d1       0x2d CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .ARM.attributes
+                0x000000fe       0x2d CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .ARM.attributes
+                0x0000012b       0x2d CMakeFiles/ws2812.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .ARM.attributes
+                0x00000158       0x2d CMakeFiles/ws2812.elf.dir/Core/Src/tim.c.obj
+ .ARM.attributes
+                0x00000185       0x21 CMakeFiles/ws2812.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .ARM.attributes
+                0x000001a6       0x2d CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .ARM.attributes
+                0x000001d3       0x2d CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .ARM.attributes
+                0x00000200       0x2d CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .ARM.attributes
+                0x0000022d       0x2d CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .ARM.attributes
+                0x0000025a       0x2d CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .ARM.attributes
+                0x00000287       0x2d CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .ARM.attributes
+                0x000002b4       0x2d CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .ARM.attributes
+                0x000002e1       0x2d CMakeFiles/ws2812.elf.dir/Hardware/WS2812.c.obj
+ .ARM.attributes
+                0x0000030e       0x2d c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000033b       0x2d c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000368       0x2d c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000395       0x2d c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000003c2       0x2d c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x000003ef       0x2d c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000041c       0x2d c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000449       0x2d c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000476       0x1d c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp/crtn.o
+OUTPUT(ws2812.elf elf32-littlearm)
+LOAD linker stubs
+LOAD c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+LOAD c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
+LOAD c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7-m/nofp\libgcc.a
+
+.debug_info     0x00000000     0xaec3
+ .debug_info    0x00000000      0x2f4 CMakeFiles/ws2812.elf.dir/Core/Src/dma.c.obj
+ .debug_info    0x000002f4      0x17c CMakeFiles/ws2812.elf.dir/Core/Src/gpio.c.obj
+ .debug_info    0x00000470      0x95d CMakeFiles/ws2812.elf.dir/Core/Src/main.c.obj
+ .debug_info    0x00000dcd      0x211 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_info    0x00000fde      0x3b5 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_info    0x00001393      0x248 CMakeFiles/ws2812.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_info    0x000015db      0xb5c CMakeFiles/ws2812.elf.dir/Core/Src/tim.c.obj
+ .debug_info    0x00002137       0x22 CMakeFiles/ws2812.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_info    0x00002159      0x7a8 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_info    0x00002901      0xd8a CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_info    0x0000368b      0x84b CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_info    0x00003ed6      0x66f CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_info    0x00004545      0xa3b CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_info    0x00004f80     0x3d52 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_info    0x00008cd2     0x1abb CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_info    0x0000a78d      0x736 CMakeFiles/ws2812.elf.dir/Hardware/WS2812.c.obj
+
+.debug_abbrev   0x00000000     0x1b51
+ .debug_abbrev  0x00000000      0x114 CMakeFiles/ws2812.elf.dir/Core/Src/dma.c.obj
+ .debug_abbrev  0x00000114       0xbf CMakeFiles/ws2812.elf.dir/Core/Src/gpio.c.obj
+ .debug_abbrev  0x000001d3      0x213 CMakeFiles/ws2812.elf.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x000003e6       0xe5 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_abbrev  0x000004cb      0x154 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_abbrev  0x0000061f      0x13e CMakeFiles/ws2812.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_abbrev  0x0000075d      0x1f9 CMakeFiles/ws2812.elf.dir/Core/Src/tim.c.obj
+ .debug_abbrev  0x00000956       0x12 CMakeFiles/ws2812.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_abbrev  0x00000968      0x1f4 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_abbrev  0x00000b5c      0x341 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_abbrev  0x00000e9d      0x223 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_abbrev  0x000010c0      0x1e6 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_abbrev  0x000012a6      0x27a CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_abbrev  0x00001520      0x245 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_abbrev  0x00001765      0x248 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x000019ad      0x1a4 CMakeFiles/ws2812.elf.dir/Hardware/WS2812.c.obj
+
+.debug_aranges  0x00000000      0x9b8
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/ws2812.elf.dir/Core/Src/dma.c.obj
+ .debug_aranges
+                0x00000020       0x20 CMakeFiles/ws2812.elf.dir/Core/Src/gpio.c.obj
+ .debug_aranges
+                0x00000040       0x30 CMakeFiles/ws2812.elf.dir/Core/Src/main.c.obj
+ .debug_aranges
+                0x00000070       0x20 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_aranges
+                0x00000090       0x68 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_aranges
+                0x000000f8       0x28 CMakeFiles/ws2812.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_aranges
+                0x00000120       0x38 CMakeFiles/ws2812.elf.dir/Core/Src/tim.c.obj
+ .debug_aranges
+                0x00000158       0x28 CMakeFiles/ws2812.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_aranges
+                0x00000180       0xe0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_aranges
+                0x00000260       0x90 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_aranges
+                0x000002f0       0x80 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_aranges
+                0x00000370       0x58 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_aranges
+                0x000003c8       0x90 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_aranges
+                0x00000458      0x3d0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_aranges
+                0x00000828      0x168 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_aranges
+                0x00000990       0x28 CMakeFiles/ws2812.elf.dir/Hardware/WS2812.c.obj
+
+.debug_ranges   0x00000000      0x940
+ .debug_ranges  0x00000000       0x10 CMakeFiles/ws2812.elf.dir/Core/Src/dma.c.obj
+ .debug_ranges  0x00000010       0x10 CMakeFiles/ws2812.elf.dir/Core/Src/gpio.c.obj
+ .debug_ranges  0x00000020       0x20 CMakeFiles/ws2812.elf.dir/Core/Src/main.c.obj
+ .debug_ranges  0x00000040       0x10 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_ranges  0x00000050       0x58 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_ranges  0x000000a8       0x18 CMakeFiles/ws2812.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_ranges  0x000000c0       0x28 CMakeFiles/ws2812.elf.dir/Core/Src/tim.c.obj
+ .debug_ranges  0x000000e8       0x20 CMakeFiles/ws2812.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_ranges  0x00000108       0xd0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_ranges  0x000001d8       0xe0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_ranges  0x000002b8       0x70 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_ranges  0x00000328       0x48 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_ranges  0x00000370       0xa0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_ranges  0x00000410      0x3c0 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_ranges  0x000007d0      0x158 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_ranges  0x00000928       0x18 CMakeFiles/ws2812.elf.dir/Hardware/WS2812.c.obj
+
+.debug_line     0x00000000     0xa4c0
+ .debug_line    0x00000000      0x1ce CMakeFiles/ws2812.elf.dir/Core/Src/dma.c.obj
+ .debug_line    0x000001ce      0x171 CMakeFiles/ws2812.elf.dir/Core/Src/gpio.c.obj
+ .debug_line    0x0000033f      0x407 CMakeFiles/ws2812.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x00000746      0x185 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_line    0x000008cb      0x305 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_line    0x00000bd0      0x24e CMakeFiles/ws2812.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_line    0x00000e1e      0x42f CMakeFiles/ws2812.elf.dir/Core/Src/tim.c.obj
+ .debug_line    0x0000124d       0xaa CMakeFiles/ws2812.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_line    0x000012f7      0x584 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_line    0x0000187b      0x668 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_line    0x00001ee3      0xa89 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_line    0x0000296c      0x610 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_line    0x00002f7c      0xc4d CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_line    0x00003bc9     0x49a5 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_line    0x0000856e     0x1c1d CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_line    0x0000a18b      0x335 CMakeFiles/ws2812.elf.dir/Hardware/WS2812.c.obj
+
+.debug_str      0x00000000     0x312b
+ .debug_str     0x00000000      0x4e9 CMakeFiles/ws2812.elf.dir/Core/Src/dma.c.obj
+                                0x526 (size before relaxing)
+ .debug_str     0x000004e9       0x44 CMakeFiles/ws2812.elf.dir/Core/Src/gpio.c.obj
+                                0x22b (size before relaxing)
+ .debug_str     0x0000052d      0x688 CMakeFiles/ws2812.elf.dir/Core/Src/main.c.obj
+                                0x8b8 (size before relaxing)
+ .debug_str     0x00000bb5       0x7e CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                                0x265 (size before relaxing)
+ .debug_str     0x00000c33      0x115 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                                0x48d (size before relaxing)
+ .debug_str     0x00000d48       0xac CMakeFiles/ws2812.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                                0x29a (size before relaxing)
+ .debug_str     0x00000df4      0x27b CMakeFiles/ws2812.elf.dir/Core/Src/tim.c.obj
+                                0x98b (size before relaxing)
+ .debug_str     0x0000106f       0x5a CMakeFiles/ws2812.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+                                 0x93 (size before relaxing)
+ .debug_str     0x000010c9      0x328 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                                0x86a (size before relaxing)
+ .debug_str     0x000013f1      0x3d6 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                                0x919 (size before relaxing)
+ .debug_str     0x000017c7      0x23c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                                0x643 (size before relaxing)
+ .debug_str     0x00001a03      0x177 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                                0x446 (size before relaxing)
+ .debug_str     0x00001b7a      0x218 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                                0x671 (size before relaxing)
+ .debug_str     0x00001d92      0xde2 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                               0x1685 (size before relaxing)
+ .debug_str     0x00002b74      0x548 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+                                0xe86 (size before relaxing)
+ .debug_str     0x000030bc       0x6f CMakeFiles/ws2812.elf.dir/Hardware/WS2812.c.obj
+                                0x72c (size before relaxing)
+
+.comment        0x00000000       0x4d
+ .comment       0x00000000       0x4d CMakeFiles/ws2812.elf.dir/Core/Src/dma.c.obj
+                                 0x4e (size before relaxing)
+ .comment       0x0000004d       0x4e CMakeFiles/ws2812.elf.dir/Core/Src/gpio.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/ws2812.elf.dir/Core/Src/main.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/ws2812.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/ws2812.elf.dir/Core/Src/tim.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .comment       0x0000004d       0x4e CMakeFiles/ws2812.elf.dir/Hardware/WS2812.c.obj
+
+.debug_frame    0x00000000     0x1a28
+ .debug_frame   0x00000000       0x2c CMakeFiles/ws2812.elf.dir/Core/Src/dma.c.obj
+ .debug_frame   0x0000002c       0x28 CMakeFiles/ws2812.elf.dir/Core/Src/gpio.c.obj
+ .debug_frame   0x00000054       0x58 CMakeFiles/ws2812.elf.dir/Core/Src/main.c.obj
+ .debug_frame   0x000000ac       0x28 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_frame   0x000000d4       0xc0 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_frame   0x00000194       0x30 CMakeFiles/ws2812.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_frame   0x000001c4       0x88 CMakeFiles/ws2812.elf.dir/Core/Src/tim.c.obj
+ .debug_frame   0x0000024c      0x1cc CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_frame   0x00000418      0x118 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_frame   0x00000530      0x144 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_frame   0x00000674       0xe4 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_frame   0x00000758      0x184 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_frame   0x000008dc      0xb18 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_frame   0x000013f4      0x40c CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_frame   0x00001800       0x3c CMakeFiles/ws2812.elf.dir/Hardware/WS2812.c.obj
+ .debug_frame   0x0000183c       0x2c c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .debug_frame   0x00001868       0x2c c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .debug_frame   0x00001894       0x5c c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000018f0       0x20 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .debug_frame   0x00001910       0x34 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .debug_frame   0x00001944       0xb0 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .debug_frame   0x000019f4       0x34 c:/progra~2/gnuarm~1/102020~1/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+
+.debug_loc      0x00000000     0x8ac0
+ .debug_loc     0x00000000       0x15 CMakeFiles/ws2812.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_loc     0x00000015       0xff CMakeFiles/ws2812.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_loc     0x00000114       0xa6 CMakeFiles/ws2812.elf.dir/Core/Src/tim.c.obj
+ .debug_loc     0x000001ba      0x141 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_loc     0x000002fb      0x71f CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_loc     0x00000a1a      0x7d1 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_loc     0x000011eb      0x47d CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_loc     0x00001668      0x618 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_loc     0x00001c80     0x50fa CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_loc     0x00006d7a     0x1c93 CMakeFiles/ws2812.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_loc     0x00008a0d       0xb3 CMakeFiles/ws2812.elf.dir/Hardware/WS2812.c.obj
