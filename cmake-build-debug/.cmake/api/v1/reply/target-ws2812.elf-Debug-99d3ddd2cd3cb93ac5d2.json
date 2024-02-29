@@ -93,7 +93,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g"
+					"fragment" : "-g -std=gnu11 -fdiagnostics-color=always"
 				},
 				{
 					"backtrace" : 5,
@@ -130,9 +130,6 @@
 				{
 					"backtrace" : 8,
 					"fragment" : "-g"
-				},
-				{
-					"fragment" : "-std=gnu11"
 				}
 			],
 			"defines" : 
@@ -154,27 +151,27 @@
 			[
 				{
 					"backtrace" : 10,
-					"path" : "E:/STM32_Programs/WS2812_STM32F103C8T6/Core/Inc"
+					"path" : "D:/STM32_Programs/WS2812_STM32F103C8T6/Core/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "E:/STM32_Programs/WS2812_STM32F103C8T6/Drivers/STM32F1xx_HAL_Driver/Inc"
+					"path" : "D:/STM32_Programs/WS2812_STM32F103C8T6/Drivers/STM32F1xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "E:/STM32_Programs/WS2812_STM32F103C8T6/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
+					"path" : "D:/STM32_Programs/WS2812_STM32F103C8T6/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "E:/STM32_Programs/WS2812_STM32F103C8T6/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
+					"path" : "D:/STM32_Programs/WS2812_STM32F103C8T6/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "E:/STM32_Programs/WS2812_STM32F103C8T6/Drivers/CMSIS/Include"
+					"path" : "D:/STM32_Programs/WS2812_STM32F103C8T6/Drivers/CMSIS/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "E:/STM32_Programs/WS2812_STM32F103C8T6/Hardware"
+					"path" : "D:/STM32_Programs/WS2812_STM32F103C8T6/Hardware"
 				}
 			],
 			"language" : "C",
@@ -210,7 +207,8 @@
 				79,
 				80,
 				81,
-				82
+				82,
+				84
 			]
 		},
 		{
@@ -283,27 +281,27 @@
 			[
 				{
 					"backtrace" : 10,
-					"path" : "E:/STM32_Programs/WS2812_STM32F103C8T6/Core/Inc"
+					"path" : "D:/STM32_Programs/WS2812_STM32F103C8T6/Core/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "E:/STM32_Programs/WS2812_STM32F103C8T6/Drivers/STM32F1xx_HAL_Driver/Inc"
+					"path" : "D:/STM32_Programs/WS2812_STM32F103C8T6/Drivers/STM32F1xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "E:/STM32_Programs/WS2812_STM32F103C8T6/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
+					"path" : "D:/STM32_Programs/WS2812_STM32F103C8T6/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "E:/STM32_Programs/WS2812_STM32F103C8T6/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
+					"path" : "D:/STM32_Programs/WS2812_STM32F103C8T6/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "E:/STM32_Programs/WS2812_STM32F103C8T6/Drivers/CMSIS/Include"
+					"path" : "D:/STM32_Programs/WS2812_STM32F103C8T6/Drivers/CMSIS/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "E:/STM32_Programs/WS2812_STM32F103C8T6/Hardware"
+					"path" : "D:/STM32_Programs/WS2812_STM32F103C8T6/Hardware"
 				}
 			],
 			"language" : "ASM",
@@ -328,7 +326,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=E:/STM32_Programs/WS2812_STM32F103C8T6/cmake-build-debug/ws2812.map",
+				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=D:/STM32_Programs/WS2812_STM32F103C8T6/cmake-build-debug/ws2812.map",
 				"role" : "flags"
 			},
 			{
@@ -353,7 +351,7 @@
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "E:/STM32_Programs/WS2812_STM32F103C8T6/STM32F103C8TX_FLASH.ld",
+				"fragment" : "D:/STM32_Programs/WS2812_STM32F103C8T6/STM32F103C8TX_FLASH.ld",
 				"role" : "flags"
 			}
 		],
@@ -428,7 +426,8 @@
 				65,
 				66,
 				67,
-				83
+				83,
+				85
 			]
 		},
 		{
@@ -457,7 +456,8 @@
 				79,
 				80,
 				81,
-				82
+				82,
+				84
 			]
 		},
 		{
@@ -468,7 +468,7 @@
 				19,
 				41,
 				68,
-				84
+				86
 			]
 		}
 	],
@@ -916,6 +916,17 @@
 		{
 			"backtrace" : 1,
 			"path" : "Hardware/WS2812.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Hardware/app.c",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Hardware/app.h",
 			"sourceGroupIndex" : 0
 		},
 		{

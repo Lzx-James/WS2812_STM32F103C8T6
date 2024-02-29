@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.22"
+						"string" : "3.27"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ws2812.elf::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ws2812.elf-Debug-80326551ec516e5c43f8.json",
+					"jsonFile" : "target-ws2812.elf-Debug-99d3ddd2cd3cb93ac5d2.json",
 					"name" : "ws2812.elf",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "E:/STM32_Programs/WS2812_STM32F103C8T6/cmake-build-debug",
-		"source" : "E:/STM32_Programs/WS2812_STM32F103C8T6"
+		"build" : "D:/STM32_Programs/WS2812_STM32F103C8T6/cmake-build-debug",
+		"source" : "D:/STM32_Programs/WS2812_STM32F103C8T6"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 3
+		"minor" : 6
 	}
 }

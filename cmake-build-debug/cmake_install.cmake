@@ -1,4 +1,4 @@
-# Install script for directory: E:/STM32_Programs/WS2812_STM32F103C8T6
+# Install script for directory: D:/STM32_Programs/WS2812_STM32F103C8T6
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/STM32_Programs/WS2812_STM32F103C8T6/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/STM32_Programs/WS2812_STM32F103C8T6/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
