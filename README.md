@@ -52,5 +52,5 @@ to stop DMA transfers
 *WS2812的信号频率为800KHz，单个灯珠的色彩为24位：8位Green->8位Red->8位Blue，高位在前；bit0为33%的占空比，bit1为66%的占空比，对所有灯珠传输完毕需要发送复位字节，即一个>50us的电平*
 *因此需要配置PWM的频率为800kHz，即时钟频率/TIM预分频/PWM计数值=800KkHz，请根据单片机的时钟主频自行计算*
 
-* The signal frequency of WS2812 is 800KHz, and the colour of a single lamp bead is 24 bits: 8 bits Green->8 bits Red->8 bits Blue, with the high bit in the front; bit0 is 33% duty cycle, and bit1 is 66% duty cycle, and a reset byte needs to be sent to the end of the transmission for all the lamp beads, i.e., a >50us level *
-* Therefore, it is necessary to configure the frequency of the PWM as follows 800kHz, i.e. clock frequency / TIM pre-divider / PWM count = 800KkHz, please calculate according to the clock frequency of the microcontroller. *
+*The signal frequency of WS2812 is 800KHz, and the colour of a single lamp bead is 24 bits: 8 bits Green->8 bits Red->8 bits Blue, with the high bit in the front; bit0 is 33% duty cycle, and bit1 is 66% duty cycle, and a reset byte needs to be sent to the end of the transmission for all the lamp beads, i.e., a >50us level*
+*Therefore, it is necessary to configure the frequency of the PWM as follows 800kHz, i.e. clock frequency / TIM pre-divider / PWM count = 800KkHz, please calculate according to the clock frequency of the microcontroller.*
